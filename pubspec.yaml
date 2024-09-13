@@ -1,7 +1,7 @@
 name: inapp_browser
 description: A simple package to add an in-app browser to your app with basic and advanced functionality.
 version: 1.0.1
-homepage: https://github.com/stef0296/inapp_webview
+homepage: https://github.com/ummitahabib/browser
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
